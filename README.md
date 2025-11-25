@@ -1,10 +1,6 @@
-- Que onda me llamo GalaxyFrame
-- Vine para aprender a programar
-- Por ahora solo se lo mas basico de Phyton pero me interesa el java y C/C++
-- Todo esto para hacer realidad mis propios proyectos
-- Que mas se dice aqui?
-- soy machopechopeludo
-- a
+- Hey Im Mess!
+- I know basics on HTML, CSS and JS
+- This is to make my own projects I... guess?
 
 <!---
 GalaxyFrame121/GalaxyFrame121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
